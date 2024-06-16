@@ -1,5 +1,5 @@
    <div align="center">
-        <img src="[https://media.giphy.com/media/l41YnKpGYVl5zPWBm/giphy.gif](https://i.gifer.com/J59.gif)" alt="GIF" width="300">
+        <img src="https://i.gifer.com/J59.gif" alt="GIF" width="300">
     </div>
 
 <h1 align="center">Hi👋I'm Mavishan Pasira</h1>
