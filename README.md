@@ -1,10 +1,10 @@
 <div align="center">
-        <img src="https://i.gifer.com/J59.gif" alt="GIF" width="300">
-        <img src="https://github.com/pasiramavishan/myImages/blob/main/J59.gif" alt="GIF" width="300">
-    </div>
+        <img src="https://github.com/pasiramavishan/myImages/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="300">
+ </div>
 
 <h1 align="center">Hi👋I'm Mavishan Pasira</h1>
 <h3 align="center">An enthusiastic undergraduate in Electronics from Sri Lanka.</h3>
+
 - 🌱 I’m currently learning **Machine Learning, Programming**
 
 - 🎓 Undergraduate at department of Electronics and Telecommunication engineering at university of Moratuwa
