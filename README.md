@@ -1,21 +1,17 @@
-   <div align="center">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2hRJW0je9vKg87m9pJKe7F&ust=1718652789906000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCKi1h9_u4IYDFQAAAAAdAAAAABAE" alt="GIF" width="300">
+<div align="center">
+        <img src="https://i.gifer.com/J59.gif" alt="GIF" width="300">
+        <img src="https://github.com/pasiramavishan/myImages/blob/main/J59.gif" alt="GIF" width="300">
     </div>
 
 <h1 align="center">Hi👋I'm Mavishan Pasira</h1>
 <h3 align="center">An enthusiastic undergraduate in Electronics from Sri Lanka.</h3>
-
 - 🌱 I’m currently learning **Machine Learning, Programming**
-
 - 🎓 Undergraduate at department of Electronics and Telecommunication engineering at university of Moratuwa
-
 - 📫 How to reach me **pasiramavishan@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mavishan-pasira-560a3b217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mavishan pasira" height="30" width="40" /></a>
 <a href="https://kaggle.com/mavishanpasira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mavishan pasira" height="30" width="40" /></a>
 </p>
-
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
