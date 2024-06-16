@@ -6,8 +6,12 @@
 <h1 align="center">Hi👋I'm Mavishan Pasira</h1>
 <h3 align="center">An enthusiastic undergraduate in Electronics from Sri Lanka.</h3>
 - 🌱 I’m currently learning **Machine Learning, Programming**
+
 - 🎓 Undergraduate at department of Electronics and Telecommunication engineering at university of Moratuwa
+  
 - 📫 How to reach me **pasiramavishan@gmail.com**
+
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mavishan-pasira-560a3b217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mavishan pasira" height="30" width="40" /></a>
