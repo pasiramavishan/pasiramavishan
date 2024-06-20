@@ -42,7 +42,7 @@
 
 <td width="50%" align="center">
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RPX2001&show_icons=true&locale=en&layout=compact" alt="RPX2001"/></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasiramavishan&show_icons=true&locale=en&layout=compact" alt="pasiramavishan"/></p>
   
   </td>
 </tr>
