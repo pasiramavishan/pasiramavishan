@@ -36,7 +36,9 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=dark&hide_border=true" />
 
-
+<a href="https://github.com/pasiramavishan">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan&theme=tokyonight" />
+  </a>
   
 </td>
 
