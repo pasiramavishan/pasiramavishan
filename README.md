@@ -34,7 +34,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasiramavishan&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan&theme=tokyonight)
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
 
 
 </td>
