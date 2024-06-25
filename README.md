@@ -68,7 +68,7 @@
 <td width="50%" align="center">
 
  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasiramavishan&show_icons=true&locale=en&layout=compact" alt="pasiramavishan"/></p>
-  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan" alt="Top Langs" />  
   </td>
 </tr>
 </table>
