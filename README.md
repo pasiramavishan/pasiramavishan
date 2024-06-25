@@ -18,7 +18,7 @@
 <a href="https://kaggle.com/mavishanpasira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mavishan pasira" height="30" width="40" /></a>
 </p>
 
-<h3 align="centre">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center" style="text-align: center;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
