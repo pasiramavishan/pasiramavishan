@@ -5,7 +5,7 @@
 <h1 align="center">Hi👋I'm Mavishan Pasira</h1>
 <h3 align="center">An enthusiastic undergraduate in Electronics Engineering from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Programming**
+- 🌱 Currently expanding my knowledge in **digital design and embedded systems**
 
 - 🎓 Undergraduate at department of Electronics and Telecommunication engineering at university of Moratuwa
   
