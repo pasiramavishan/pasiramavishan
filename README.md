@@ -55,16 +55,16 @@
 <table border="0" align="center">
   <tr>
     <td width="50%" align="center">
-<!--       <img
+      <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=pasiramavishan&theme=cobalt&show_icons=true&count_private=true"
         alt="GitHub Stats"
-      /> -->
+      />
       <br>
-      <img
+<!--       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
         alt="GitHub Streak"
-      />
+      /> -->
     </td>
     <td width="50%" align="center">
       <img
@@ -74,6 +74,12 @@
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan" alt="GitHub Streak" />
+</div>
 
 
 
