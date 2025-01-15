@@ -55,9 +55,10 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasiramavishan&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pasiramavishan)](https://git.io/streak-stats)
+
 
 
 </td>
