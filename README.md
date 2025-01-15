@@ -76,10 +76,10 @@
 </table>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan" alt="GitHub Streak" />
-</div>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=cobalt&hide_border=true&cache_seconds=86400"
+  alt="GitHub Streak"
+/>
 
 
 
