@@ -61,17 +61,17 @@
         alt="GitHub Stats"
       />
       <br>
-      <img
+<!--       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
         alt="GitHub Streak"
-      />
+      /> -->
     </td>
-<!--     <td width="50%" align="center">
+    <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan&layout=compact&theme=cobalt"
         alt="Top Languages"
       />
-    </td> -->
+    </td>
   </tr>
 </table>
 
