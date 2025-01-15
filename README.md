@@ -53,25 +53,27 @@
   
   
 <table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasiramavishan&theme=cobalt&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan" alt="GitHub Streak" />
-  <br></br>
-<!--         <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=dark&hide_border=true" / -->
-
-
-
-
-</td>
-
-<td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan" alt="Top Langs" />  
-  </td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=pasiramavishan&theme=cobalt&show_icons=true&count_private=true"
+        alt="GitHub Stats"
+      />
+      <br>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan&layout=compact&theme=cobalt"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
 </table>
-
-<br>
 
 
 
