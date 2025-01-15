@@ -60,7 +60,7 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=dark&hide_border=true" />
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pasiramavishan)](https://git.io/streak-stats)
 
 
 
