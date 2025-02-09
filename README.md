@@ -68,8 +68,9 @@
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan&layout=compact&theme=cobalt"
-        alt="Top Languages"
+<!--         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan&layout=compact&theme=cobalt" -->
+            src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
+            alt="Top Languages"
       />
     </td>
   </tr>
@@ -77,7 +78,7 @@
 
 
 <img
-  src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
+<!--   src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true" -->
   alt="GitHub Streak"
 />
 
