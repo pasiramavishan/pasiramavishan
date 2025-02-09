@@ -77,10 +77,6 @@
 </table>
 
 
-<img
-<!--   src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true" -->
-  alt="GitHub Streak"
-/>
 
 
 
