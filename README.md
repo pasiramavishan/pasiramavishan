@@ -68,7 +68,6 @@
     </td>
     <td width="50%" align="center">
       <img
-
             src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
             alt="Top Languages"
       />
