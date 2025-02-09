@@ -60,11 +60,7 @@
         src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
         alt="GitHub Stats"
       />
-       <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=cobalt&hide_border=true&cache_seconds=86400"
-        alt="GitHub Stats"
-      />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan" alt="GitHub Streak" />        
       <br>
 
 </td>
