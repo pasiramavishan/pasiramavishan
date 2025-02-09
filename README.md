@@ -1,7 +1,3 @@
-<div align="center">
-        <img src="https://github.com/pasiramavishan/myImages/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="300">
- </div>
-
 <h1 align="center">Hi👋I'm Mavishan Pasira</h1>
 <h3 align="center">An enthusiastic undergraduate in Electronics Engineering from Sri Lanka.</h3>
 
@@ -53,27 +49,36 @@
   
   
 <table border="0" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        align="center"
-        src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
-        alt="GitHub Stats"
-      />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan" alt="Top Langs" />       
-      <br>
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasiramavishan&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan&theme=dark&hide_border=true" />
+
+
+
+
+
 
 </td>
-    <td width="50%" align="center">
-      <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan"
-            alt="Top Languages"
-      />
-    </td>
-  </tr>
+
+<td width="50%" align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan" alt="Top Langs" />  
+  </td>
+</tr>
 </table>
 
+<br>
 
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
 
 
 
