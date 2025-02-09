@@ -68,6 +68,10 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan"
             alt="Top Languages"
       />
+              <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan"
+            alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
