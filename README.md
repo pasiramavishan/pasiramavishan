@@ -60,7 +60,7 @@
         src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
         alt="GitHub Stats"
       />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiramavishan" alt="GitHub Streak" />        
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan" alt="Top Langs" />       
       <br>
 
 </td>
