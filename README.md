@@ -60,15 +60,16 @@
         src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
         alt="GitHub Stats"
       />
+       <img
+        align="center"
+        src="https://streak-stats.demolab.com/?user=pasiramavishan&theme=cobalt&hide_border=true"
+        alt="GitHub Stats"
+      />
       <br>
 
 </td>
     <td width="50%" align="center">
       <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan"
-            alt="Top Languages"
-      />
-              <img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiramavishan"
             alt="Top Languages"
       />
